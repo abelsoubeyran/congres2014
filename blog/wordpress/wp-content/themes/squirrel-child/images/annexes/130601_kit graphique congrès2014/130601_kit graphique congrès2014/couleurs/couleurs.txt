@@ -1,0 +1,22 @@
+::::::::::::::::::::::::
+::::: Congrès 2014 :::::
+::::: - Nuancier - :::::
+::::::::::::::::::::::::
+
+=== Rouge ===
+Pantone	179 C
+RVB		224/60/49
+HTML	E03C31
+CMJN	0/89/84/0
+
+=== Jaune ===
+Pantone	116 C
+RVB		55/205/0
+HTML	FFCD00
+CMJN	0/14/100/0
+
+=== Vert ===
+Pantone	368 C
+RVB		120/190/32
+HTML	78BE20
+CMJN	70/0/100/0

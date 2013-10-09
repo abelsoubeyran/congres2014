@@ -1,0 +1,72 @@
+/*
+Theme Name:	Squirrel child theme
+Template:	squirrel
+Version:	0.1
+*/
+
+@import url("../squirrel/style.css");
+h1, h2, h3, h4, h5, h6 {
+    font-family:'archivo black';
+	font-weight: bold;
+    }
+   body {
+    font-family:"Cabin";
+	
+}
+.mentions {
+	font-size:8px;
+	}
+.infospratiques {
+	width: 900px;
+	}
+.mosaique1, .mosaique2, .mosaique3, .mosaique4, .mosaique5, .mosaique6 {
+	height: 279px;
+	width: 179px;
+	float: left;
+	margin-bottom: 50px;
+	background-image: url("images/cadre_13.jpg");
+	}
+.mosaique1, .mosaique2, .mosaique4, .mosaique5 {
+	margin-right: 75px;
+	}
+	
+	
+.partenaires {
+	width: 900px;
+	}
+.partenaire1, .partenaire2, .partenaire3, .partenaire4, .partenaire5, .partenaire6, .partenaire7 {
+	height: 150px;
+	width: 200px;
+	border-radius: 5px 50px 5px 50px;
+	float: left;
+	margin-bottom: 50px;
+	background-color: #FFCD00;
+		
+		}
+
+	.partenaire1, .partenaire2, .partenaire3, .partenaire5, .partenaire6 {
+		margin-right: 30px;
+		}
+	
+	.rangeepartenaire2 {
+		margin-left: 100px;
+		}
+	
+	.mosaique1, .mosaique4 {
+		text-align: center;
+		margin-left: 80px;
+		}
+	.bandefooter {
+		height: 60px;
+		background-image: url("images/bandefooter.png");
+		background-color: white;
+		
+			}
+	#slideshow {
+		height:330px;
+		width: 580px;
+		}
+	.slider-info {
+		text-align: justify;
+		
+		}
