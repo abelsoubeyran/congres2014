@@ -1,7 +1,6 @@
 <div class="clear"></div>
 <!--End Index-->
 <!--Start Footer-->
-<div class="bandefooter"></div>  
 <div class="footer">
  
  <?php
