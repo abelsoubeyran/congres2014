@@ -25,6 +25,7 @@ Version:	0.1
 	}
 h1, h2, h3, h4, h5, h6 {
     font-family:"chivoblack";
+	color: #606060;	
 	font-weight: bold;
     }
 .mentions {
@@ -88,6 +89,20 @@ h1, h2, h3, h4, h5, h6 {
 	background: url('images/fond.png');
 	}
 	.main-container{
-		background: url(images/fond.png) no-repeat center fixed;
-		
-	}
+		background: url(images/fond.jpg) no-repeat center fixed;
+		background-size: cover;
+		}
+	.bandehaute {
+		background: url(images/bandejaune.jpg) no-repeat center;
+		background-size: cover;
+		height: 140px;
+		border-top: 0px;
+		}
+	.footer, .bottom-footer {
+		background-color: transparent;
+		border: none;
+		-moz-box-shadow:0px 0px 0px #888;
+		-webkit-box-shadow:0px 0px 0px #888;
+		box-shadow:0px 0px 0px #888;
+    color:#bcbaba;
+		}
