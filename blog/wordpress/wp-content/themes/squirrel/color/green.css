@@ -19,15 +19,7 @@
 	color: #000;
 	background-color:#fff;
 }
-.footer, .mentions, .bottom-footer, .footer-strip{
-	background:url(images/fondfooter.jpg) repeat;
-	color:#b4d4e5;
-	border: 0px;
-}
-.footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6 {
-	color:#ffffff;
-	background:url(images/footer-sep-blue.png) bottom repeat-x;
-}
+
 .footer ul li a {
 	color:#b4d4e5;
 }

@@ -22,7 +22,9 @@
 						
 					</div>
 					<div class="mosaique2">
-						<h4>Tarifs d'inscription</h4>
+					</div>
+					<div class="mosaique3">
+					<h4>Tarifs d'inscription</h4>
 						<u> Tarifs</u>
 						Les tarifs de participation dépendent de la date d’inscription. Attention, L’inscription ne sera considérée comme définitive qu’une fois le paiement reçu.<br/><br/>
 						<ul>
@@ -35,8 +37,6 @@
 						Le paiement pourra se faire soit via le Système d'Information par carte bancaire ou par chèque à envoyer au responsable des inscriptions => Nom Prénom Adresse. <br/><br/>
 						<u>Bourse Congrès</u><br/>
 						TEXTE A REMPLIR<br/>
-					</div>
-					<div class="mosaique3">
 					</div>
 				
 			</div>
