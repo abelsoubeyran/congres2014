@@ -5,14 +5,7 @@ Version:	0.1
 */
 
 @import url("../squirrel/style.css");
-h1, h2, h3, h4, h5, h6 {
-    font-family:'chivoblack';
-	font-weight: bold;
-    }
-   body {
-    font-family:"Cabin";
-	
-}
+
 @font-face {
     font-family: 'chivoblack';
     src: url('font/chivo-black-webfont.eot');
@@ -24,23 +17,39 @@ h1, h2, h3, h4, h5, h6 {
     font-style: normal;
 
 }
+
+
+	
+   body {
+    font-family:"Cabin";
+	}
+h1, h2, h3, h4, h5, h6 {
+    font-family:"chivoblack";
+	color: #606060;	
+	font-weight: bold;
+    }
 .mentions {
 	font-size:8px;
 	}
 .infospratiques {
-	width: 900px;
+	width: 950px;
+	font-size: 11px;
 	}
-.mosaique1, .mosaique2, .mosaique3, .mosaique4, .mosaique5, .mosaique6 {
-	height: 279px;
-	width: 179px;
+.mosaique1, .mosaique2, .mosaique3{
+	height: 330px;
+	width: 280px;
 	float: left;
 	margin-bottom: 50px;
-	background-image: url("images/cadre_13.jpg");
+	background-image: url("images/cadre_13.png");
+	padding: 10px;
 	}
-.mosaique1, .mosaique2, .mosaique4, .mosaique5 {
-	margin-right: 75px;
+.infospratiques h4 {
+	text-align: center;
+		}
+		
+.mosaique1, .mosaique2{
+	margin-right: 10px;
 	}
-	
 	
 .partenaires {
 	width: 900px;
@@ -64,16 +73,10 @@ h1, h2, h3, h4, h5, h6 {
 		margin-left: 100px;
 		}
 	
-	.mosaique1, .mosaique4 {
-		text-align: center;
-		margin-left: 80px;
+	.mosaique1{
+		margin-left: 0px;
 		}
-	.bandefooter {
-		height: 60px;
-		background-image: url("images/bandefooter.png");
-		background-color: white;
-		
-			}
+						
 	#slideshow {
 		height:330px;
 		width: 580px;
@@ -86,5 +89,20 @@ h1, h2, h3, h4, h5, h6 {
 	background: url('images/fond.png');
 	}
 	.main-container{
-		background: url(images/fond.png) no-repeat center fixed;
-	}
+		background: url(images/fond.jpg) no-repeat center fixed;
+		background-size: cover;
+		}
+	.bandehaute {
+		background: url(images/bandejaune.jpg) no-repeat center;
+		background-size: cover;
+		height: 140px;
+		border-top: 0px;
+		}
+	.footer, .bottom-footer {
+		background-color: transparent;
+		border: none;
+		-moz-box-shadow:0px 0px 0px #888;
+		-webkit-box-shadow:0px 0px 0px #888;
+		box-shadow:0px 0px 0px #888;
+    color:#bcbaba;
+		}

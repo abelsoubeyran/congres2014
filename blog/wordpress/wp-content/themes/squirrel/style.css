@@ -19,6 +19,7 @@ body {
     color:#4d4d4d;
     background:url(images/pattern-image.png);
 }
+
 hr {
     border:0 #ccc dotted;
     border-top-width:1px;
@@ -421,10 +422,10 @@ textarea {
     padding-top:25px;
     padding-left:23px;
     padding-right:20px;
-    height:299.3px;
+    height:295px;
     width:326px;
     float:right;
-    border-top:1px dotted #888;
+    
     background-color:#fff;
 }
 .slider-info h1 {

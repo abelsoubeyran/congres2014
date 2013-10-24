@@ -19,27 +19,17 @@
 	color: #000;
 	background-color:#fff;
 }
-.footer {
-	background-color:#E03C31;
-	color:#b4d4e5;
-}
-.footer h1, .footer h2, .footer h3, .footer h4, .footer h5, .footer h6 {
-	color:#ffffff;
-	background:url(images/footer-sep-blue.png) bottom repeat-x;
-}
+
 .footer ul li a {
 	color:#b4d4e5;
 }
 .footer a:hover {
 	color:#b4d4e5;
 }
-.footer-strip {
-	background:url(images/footer-line-blue.png) repeat-x;
-}
-.bottom-footer {
-	background-color:#E03C31;
-	color:#9dbfd1;
-}
+
+
+
+
 .bottom-footer .footer_bottom_inner span.copyright a{
 color:#9dbfd1;
 }

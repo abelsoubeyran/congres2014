@@ -1,7 +1,8 @@
 <div class="clear"></div>
 <!--End Index-->
 <!--Start Footer-->
-<div class="bandefooter"></div>  
+<div class="bandehaute">
+ </div>
 <div class="footer">
  
  <?php
@@ -11,7 +12,7 @@
     get_sidebar('footer');
     ?>
 </div>
-<div class="footer-strip"></div>
+
 <!--Start footer bottom inner-->
 <div class="bottom-footer">
 
