@@ -7,8 +7,18 @@
 <div class="clear"></div>
 <div class="page-content">
     <div class="grid_16 alpha">
+	
         <div class="content-bar">
-            <?php
+          <div class="introrh">
+	<h5>Le Congrès National 2014 ne se fera pas sans un investissement humain fort ! </h5>
+
+L'équipe d'organisation est constituée de bénévoles qui intègrent les différents pôles coordonnés par l’équipe noyaux. <br/>
+Bénévoles, nous espérons vous voir venir de tous horizons, de toutes les régions françaises, pour montrer le dynamisme de notre mouvement. 
+Si vous souhaitez vous investir dans cet évènement exceptionnel pour vivre une histoire unioniste unique, n’hésitez plus et inscrivez-vous sur une fiche de poste !<br/>
+
+Toutes sortes de compétences sont les bienvenues, du graphiste au musicien en passant par l’écriture, l’intendance, ou encore la régie son et lumière. Nous vous attendons.<br/><br/><br/>
+	</div>
+			<?php
             $limit = get_option('posts_per_page');
             $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
             query_posts('showposts=' . $limit . '&paged=' . $paged . '&cat=4');
