@@ -98,7 +98,7 @@ textarea {
     box-shadow:0px 0px 3px #818085;
 }
 .header .logo {
-    margin:27px 0 21px 23px;
+    margin:0px 0 0px 0px;
 }
 /*=====Menu-Style Start
 ========================================*/
@@ -418,8 +418,8 @@ textarea {
     background-position:0 -13px;
 }
 .slider-info {
-    margin-top:15px;
-    padding-top:25px;
+    margin-top:0px;
+    padding-top:0px;
     padding-left:23px;
     padding-right:20px;
     height:295px;
@@ -655,14 +655,14 @@ textarea {
 /*=====Blog-Style 
 ========================================*/
 .page-content {
-    margin-top:40px;
+    margin-top:20px;
 }
 .page-content .content-bar {
     padding-left:22px;
     margin-bottom:50px;
 }
 .page-content .content-bar h1, .page-content .content-bar h2, .page-content .content-bar h3, .page-content .content-bar h4, .page-content .content-bar h5, .page-content .content-bar h6{
-    color:#000300;
+    color:#606060;
 }
 .page-content .content-bar .post {
     margin-bottom:30px;
@@ -698,10 +698,10 @@ textarea {
     padding-left:1px;
     padding-top:0;
     margin-top:0;
-    font-size:24px;
+    font-size:20px;
 }
 .page-content .content-bar .post .post_title a {
-    color:#000;
+    color:#606060;
 }
 .page-content .content-bar .post .post_meta li {
     display:inline;
@@ -751,6 +751,7 @@ textarea {
 }
 .page-content .sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 {
     color:#000;
+	font-family: "Cabin";
 }
 .sidebar ul {
     list-style:none;

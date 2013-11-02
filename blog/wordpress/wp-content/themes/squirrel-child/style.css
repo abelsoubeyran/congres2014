@@ -26,8 +26,8 @@ Version:	0.1
 h1, h2, h3, h4, h5, h6 {
     font-family:"chivoblack";
 	color: #606060;	
-	font-weight: bold;
     }
+
 .mentions {
 	font-size:8px;
 	}
@@ -109,7 +109,59 @@ h1, h2, h3, h4, h5, h6 {
 		box-shadow:0px 0px 0px #888;
     color:#bcbaba;
 		}
-	.introrh {
+	.introrh, .introcadac {
 		text-align: justify;
 		}
+	.red {
+		color: #E03C31;
+		display: inline;
+		font-size: 16px;
+		}
+	.titre-cadac {
+		font-size: 18px;
+		color: #78BE20;
+		}
+	
+	.case1, .case2, .case3, .case4, .case5{
+		width: 300px;
+		border: 1px black solid;
+		}
+	.lettre-red {
+		color: #E03C31;
+		display: inline;
+		font-size: 19px;
+		font-weight: bold;
+		}
 		
+	.lettre-green {
+		color: #78BE20;
+		display: inline;
+		font-size: 19px;
+		font-weight: bold;
+		}
+	.lettre-yellow {
+		color: #FFCD00;
+		display: inline;
+		font-size: 19px;
+		font-weight: bold;
+		}
+
+	.descriptioncongres a {
+		font-weight: bold;
+		}
+	.post_title {
+	font-size: 20px;
+		}
+	.content-bar h3 {
+		font-family:"Cabin";
+		}
+	.introrh {
+		border: 1px grey solid;
+		padding: 10px;
+		border-radius: 8px;
+		margin-bottom: 20px;
+		}
+	.introrh h4 {
+		font-family:"Cabin";
+		}
+	
