@@ -37,7 +37,7 @@ S’inscrivant dans la dynamique du Congrès, ces projets de « 100 Ans D’Aven
 			<div class="titre-cadac">… De service</div><br/><br/>
 La dimension de service est au cœur des valeurs du scoutisme et fait notamment partie de la Méthode Scoute Unioniste. En t’impliquant dans « 100 Ans D’Avenir à Construire », tu vivras un projet portant cette dimension altruiste. Alors, creusons nous un peu la tête, et allons plus loin que le simple coup de main au propriétaire !<br/><br/>
 
-Ici, tu trouveras un outil pour concevoir ton projet de service: <a href="images/cadac.pdf" target="_blank">Cliquer ici</a><br/>
+Ici, tu trouveras un outil pour concevoir ton projet de service: <a href="assets/cadac.pdf" target="_blank">Cliquer ici</a><br/>
 
 			</div>
 			<div class="fleche2">
@@ -48,7 +48,7 @@ Par « Partenaire » on entend : toute association ou structure autre que les EE
 Nous avons pour ambition d'apprendre à mener des projets avec les autres et de leur faire découvrir qui sont les EEUdF.<br/>
 Cette Démarche nous permet d'expérimenter des façons de faire, de nous questionner et d'enrichir collectivement nos pratiques.<br/><br/>
 
-Ici, tu trouveras les premières pistes pour chercher un partenariat <a href="images/partenariat.pdf" target="_blank">Cliquer ici</a><br/>
+Ici, tu trouveras les premières pistes pour chercher un partenariat <a href="assets/partenariat.pdf" target="_blank">Cliquer ici</a><br/>
 
 			</div>
 			<div class="fleche3">
