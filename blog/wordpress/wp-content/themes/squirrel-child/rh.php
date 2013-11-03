@@ -6,9 +6,9 @@
 <?php get_header(); ?>
 <div class="clear"></div>
 <div class="page-content">
-    <div class="grid_16 alpha">
+    <div class="grid_24 alpha">
 	
-        <div class="content-bar">
+        <div class="content-bar" style="padding: 0px 20px 0px 20px;">
           <div class="introrh">
 	<h4>Le Congrès National 2014 ne se fera pas sans un investissement humain fort ! </h4>
 

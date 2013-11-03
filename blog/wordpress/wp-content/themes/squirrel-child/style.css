@@ -36,13 +36,22 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 11px;
 	}
 .mosaique1, .mosaique2, .mosaique3{
-	height: 330px;
-	width: 280px;
+	width: 260px;
+	height: 630px;
 	float: left;
 	margin-bottom: 50px;
-	background-image: url("images/cadre_13.png");
 	padding: 10px;
+	background-repeat: no-repeat;
 	}
+.mosaique1 {
+		background: url('images/camper.png');
+}
+.mosaique2 {
+		background: url('images/inventer.png');
+}
+.mosaique3 {
+		background: url('images/jouer.png');
+}
 .infospratiques h4 {
 	text-align: center;
 		}
@@ -88,8 +97,9 @@ h1, h2, h3, h4, h5, h6 {
 	
 	/*ugly hack*/
 	body{
-		background:url(images/fond-tile.png);
+		/*background:url(images/fond-tile.png);*/
 		background-repeat:repeat;
+		background-attachment: fixed;
 	}
 	.main-container{
 		background: url(images/fond.png) no-repeat center fixed;
@@ -102,13 +112,17 @@ h1, h2, h3, h4, h5, h6 {
 		border-top: 0px;
 		}
 	.footer, .bottom-footer {
-		background-color: transparent;
+		background-color: #FFCD00;
 		border: none;
 		-moz-box-shadow:0px 0px 0px #888;
 		-webkit-box-shadow:0px 0px 0px #888;
 		box-shadow:0px 0px 0px #888;
     color:#bcbaba;
 		}
+	.bottom-footer {
+		background-color: transparent;
+		}
+		
 	.introrh, .introcadac {
 		text-align: justify;
 		}
@@ -119,31 +133,52 @@ h1, h2, h3, h4, h5, h6 {
 		}
 	.titre-cadac {
 		font-size: 18px;
-		color: #78BE20;
+		color: #FFFFFF;
+		background: url('images/fondtitre.png');
+		height: 55px;
+		text-align: center;
+		padding: 5px;
+		
 		}
 	
-	.case1, .case2, .case3, .case4, .case5{
+	
+	.case{
+		height: 180px;
+		clear:all;
+	}
+	.case_inner{
 		width: 300px;
-		border: 1px black solid;
-		}
+		border: 1px #999 solid;
+		border-radius: 5px;
+		padding:10px;
+		text-align: justify;
+	}
+	.case-right{
+		float:right;
+	}
+	.case-left{
+		float:left;
+	}
+	.case-center{
+		width: 400px;
+		margin-right: auto;
+		margin-left: auto;
+	}
 	.lettre-red {
 		color: #E03C31;
 		display: inline;
-		font-size: 19px;
-		font-weight: bold;
+		font-size: 18px;
 		}
 		
 	.lettre-green {
 		color: #78BE20;
 		display: inline;
-		font-size: 19px;
-		font-weight: bold;
+		font-size: 18px;
 		}
 	.lettre-yellow {
 		color: #FFCD00;
 		display: inline;
-		font-size: 19px;
-		font-weight: bold;
+		font-size: 18px;
 		}
 
 	.descriptioncongres a {
@@ -165,4 +200,16 @@ h1, h2, h3, h4, h5, h6 {
 	.introrh h4 {
 		font-family:"Cabin";
 		}
-	
+	.introinfo {
+		border: 1px grey solid;
+		padding: 10px;
+		border-radius: 8px;
+		margin-bottom: 20px;
+		margin-right: 40px;
+		background-color: #EEE;
+		font-size: 14px;
+	}
+	.bottom-footer img {
+		margin-right: 15px;
+		margin-left: 30px;
+	}
