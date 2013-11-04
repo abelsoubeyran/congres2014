@@ -44,13 +44,13 @@ h1, h2, h3, h4, h5, h6 {
 	background-repeat: no-repeat;
 	}
 .mosaique1 {
-		background: url('images/camper.png');
+		background: url('images/Camper.png');
 }
 .mosaique2 {
-		background: url('images/inventer.png');
+		background: url('images/Inventer.png');
 }
 .mosaique3 {
-		background: url('images/jouer.png');
+		background: url('images/Jouer.png');
 }
 .infospratiques h4 {
 	text-align: center;
