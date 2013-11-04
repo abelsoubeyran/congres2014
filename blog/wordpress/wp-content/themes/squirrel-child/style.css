@@ -220,26 +220,29 @@ h1, h2, h3, h4, h5, h6 {
 	}
 
 	.fleche1 {
-		position: absolute;
-		top: 700px;
-		left: 630px;
+		position: relative;
+		top: 150px;
+		left: 350px;
 
 	}
 	.fleche2 {
-		position: absolute;
-		top: 900px;
-		left: 630px;
+		position: relative;
+		top: 200px;
+		left: 350px;
 
 	}
 	.fleche3 {
-		position: absolute;
-		top: 1100px;
-		left: 630px;
+		position: relative;
+		top:250px;
+		left: 350px;
 
 	}
 	.fleche4 {
-		position: absolute;
-		top: 1300px;
-		left: 660px;
+		position: relative;
+		top: 450px;
+		left: 450px;
 
+	}
+	.wrapper-fleche {
+		height:1px;
 	}

@@ -22,6 +22,20 @@
 
 
   			</div>
+        <div class="wrapper-fleche">
+         <div class="fleche1">
+            <img src="images/fleches/fleche1.png" alt="fleche1">
+          </div>
+          <div class="fleche2">
+             <img src="images/fleches/fleche2.png" alt="fleche2">
+          </div>
+           <div class="fleche3">
+              <img src="images/fleches/fleche3.png" alt="fleche3">
+          </div>
+          <div class="fleche4">
+              <img src="images/fleches/fleche4.png" alt="fleche4">
+          </div>
+         </div>
   			<h3>Un projet</h3>
   			<div class="case">
   				<div class="case_inner case-left">
@@ -59,7 +73,7 @@
 	  				C'est de là qu'est née la Démarche « 100 Ans D’Avenir à Construire » qui permet aux responsables et cadres des EEUdF de monter des projets de service, pour et avec les enfants qui vivent le scoutisme unioniste, en partenariat avec d’autres structures.<br/>
 				</div>
   			</div>
-  			<div class="case" style="margin-top:100px;margin-bottom:200px;">
+  			<div class="case" style="margin-top:200px;margin-bottom:200px;">
   				<div class="case_inner case-center">
   				<div class="titre-cadac"><br/> Vers vos témoignages</div><br/><br/>
 	  				À TOUS, nous vous invitons à entrer dans la Démarche, à y intégrer les enfants du Mouvement, les gens qui vous entourent, pour ensuite restituer entre adultes, en août 2014, tout le vécu « 100 Ans D’Avenir à Construire » de cette année.<br/>
@@ -77,18 +91,7 @@
   				<div class="lettre-red">Et pour les 100 ans à venir...</div><br/><br/>
   				L’ambition de « 100 Ans D’Avenir à Construire » est d’être une première expérience tremplin pour une Démarche qui est amenée à perdurer dans les années à venir en tant que base de nouveaux projets. Les expériences continueront à être partagées sur le site Internet dédié à cette Démarche.
   			</div>
-          <div class="fleche1">
-            <img src="images/fleches/fleche1.png" alt="fleche1">
-          </div>
-          <div class="fleche2">
-             <img src="images/fleches/fleche2.png" alt="fleche2">
-          </div>
-          <div class="fleche3">
-              <img src="images/fleches/fleche3.png" alt="fleche3">
-          </div>
-          <div class="fleche4">
-              <img src="images/fleches/fleche4.png" alt="fleche4">
-          </div>
+         
 
   		</div>
   	</div>
