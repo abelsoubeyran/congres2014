@@ -11,7 +11,6 @@
 <!--Start footer bottom inner-->
 <div class="bottom-footer">
 			  <img src="images/logos/acteurdeleducation.jpg" alt="acteur de l education">
-	       	  <img src="images/logos/logocroixunioniste.jpg" alt="logo croix unioniste">
 	       	  <img src="images/logos/logoeducationdurable.jpg" alt="logo education durable">
 	       	  <img src="images/logos/logoeeudf.jpg" alt="logo eeudf">
 	       	  <img src="images/logos/logofpf.jpg" alt="logo fpf">

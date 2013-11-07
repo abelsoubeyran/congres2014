@@ -45,12 +45,15 @@ h1, h2, h3, h4, h5, h6 {
 	}
 .mosaique1 {
 		background: url('images/Camper.png');
+		display: block;
 }
 .mosaique2 {
 		background: url('images/Inventer.png');
+		display: block;
 }
 .mosaique3 {
 		background: url('images/Jouer.png');
+		display: block;
 }
 .infospratiques h4 {
 	text-align: center;
@@ -216,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
 	}
 	.bottom-footer img {
 		margin-right: 15px;
-		margin-left: 30px;
+		margin-left: 50px;
 	}
 
 	.fleche1 {
