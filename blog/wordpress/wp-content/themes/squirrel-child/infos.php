@@ -20,13 +20,11 @@ Des années, le scoutisme en a déjà traversées plus de cent, et il montre enc
 Des mutations, il en a vécues de nombreuses mais continue à se développer un peu partout dans le monde.<br/>
 <div class="lettre-red">Ce sont nos pratiques</div> quotidiennes et notre pédagogie que nous venons enrichir collectivement durant ces quelques jours. Si le scoutisme est une pédagogie aussi durable, c'est que nous avons toujours su enrichir nos pratiques jusqu'à aujourd'hui.<br/>
 				</div>
-					<a class="mosaique1" href="http://google.com">
-						
-						
+					<a class="mosaique1" href="assets/Pages28.pdf" target="_blank">
 					</a>
-					<a class="mosaique2" href="http://google.com">
+					<a class="mosaique2" href="assets/Pages30.pdf" target="_blank">
 					</a>
-					<a class="mosaique3" href="http://google.com">
+					<a class="mosaique3" href="assets/Pages32.pdf" target="_blank">
 					
 					</a>
 				
