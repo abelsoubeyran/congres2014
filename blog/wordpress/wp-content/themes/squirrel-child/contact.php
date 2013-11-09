@@ -47,7 +47,7 @@ Samuel Soubeyran
 <b>Sylvain GRIFFAULT, en charge du pôle "Programmes"</b>	<br/>
 <i>morbleu@wanadoo.fr	</i><br/><br/>
 
-<b>Matthieu HARLE, en charge du pôle "Logistique"</b>	<br/>
+<b>Mathieu HARLE, en charge du pôle "Logistique"</b>	<br/>
 <i>mathieu.harle@gmail.com </i><br/><br/>
 
 <b>Elodie ROL, en charge du pôle  "Vie de camp"</b> <br/>
