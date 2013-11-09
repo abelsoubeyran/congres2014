@@ -8,8 +8,7 @@
 <div class="page-content">
     <div class="grid_16 alpha">
         <div class="content-bar">
-		<h5> Sur cette page, on vous présente les différentes personnes en charge du projet du Congrès 2014 ainsi que leurs coordonnées, n'hésitez pas à leur poser toutes vos questions! </h5>
-Qui contacter ? <br/><br/>
+		<h1>Qui contacter ?</h1>
 
 pour les inscriptions : Pauline Petit-Benguigui - inscriptionscongres2014@eeudf.org<br/>
  pour toutes les autres questions :  congres2014@eeudf.org<br/><br/>

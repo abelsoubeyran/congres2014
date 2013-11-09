@@ -8,6 +8,7 @@
 <div class="page-content">
     <div class="grid_16 alpha">
         <div class="content-bar">
+            <h1>Découvre l'actualité du Congrès!</h1>
             <?php
             $limit = get_option('posts_per_page');
             $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;

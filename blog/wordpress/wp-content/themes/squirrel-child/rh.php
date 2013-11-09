@@ -10,7 +10,7 @@
 	
         <div class="content-bar" style="padding: 0px 20px 0px 20px;">
           <div class="introrh">
-	<h4>Le Congrès National 2014 ne se fera pas sans un investissement humain fort ! </h4>
+	<h1>Le Congrès National 2014 ne se fera pas sans un investissement humain fort ! </h1>
 
 L'équipe d'organisation est constituée de bénévoles qui intègrent les différents pôles coordonnés par l’équipe noyaux. <br/>
 Bénévoles, nous espérons vous voir venir de tous horizons, de toutes les régions françaises, pour montrer le dynamisme de notre mouvement. 

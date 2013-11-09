@@ -658,7 +658,7 @@ textarea {
     margin-top:20px;
 }
 .page-content .content-bar {
-    padding-left:22px;
+    padding-left:20px;
     margin-bottom:50px;
 }
 .page-content .content-bar h1, .page-content .content-bar h2, .page-content .content-bar h3, .page-content .content-bar h4, .page-content .content-bar h5, .page-content .content-bar h6{
@@ -699,6 +699,7 @@ textarea {
     padding-top:0;
     margin-top:0;
     font-size:20px;
+    font-family: "Cabin";
 }
 .page-content .content-bar .post .post_title a {
     color:#606060;

@@ -9,7 +9,8 @@
   	<div class="grid_24 alpha" >
   		<div class="content-bar" style="padding: 0px 20px 0px 20px;">
   			<div class="introcadac">
-  				<div class="red">100 Ans d'avenir à Construire</div> est une démarche associée au Congrès 2014 dans laquelle tu as ton rôle à jouer !<br/><br/>
+  				<h1>100 Ans d'avenir à Construire</h1></br><br/>
+           <p>C'est une démarche associée au Congrès 2014 dans laquelle tu as ton rôle à jouer !<br/>
 
   				<div class="red">Inventer, construire,</div> le scoutisme de demain, celui qui fabrique de la solidarité et de la rencontre, c'est la raison d'être de notre Congrès. Le Congrès est un lieu  pour <div class="red">échanger</div> sur notre vision du scoutisme et sur nos manières d'agir !<br/><br/>
 
@@ -32,9 +33,6 @@
            <div class="fleche3">
               <img src="images/fleches/fleche3.png" alt="fleche3">
           </div>
-          <div class="fleche4">
-              <img src="images/fleches/fleche4.png" alt="fleche4">
-          </div>
          </div>
   			<h3>Un projet</h3>
   			<div class="case">
@@ -43,8 +41,8 @@
 
   					Ton projet peut s'étendre sur un trimestre,  une année ou un camp, comme on en fait régulièrement dans les activités unionistes. Cette année il sera rehaussé d’une dimension Congrès.  Vous allez le vivre avec ton unité, et mettre en place vos ambitions éducatives en lien avec le Congrès au sein de vos activités.<br/><br/>
 
-  					S’inscrivant dans la dynamique du Congrès, ces projets de « 100 Ans D’Avenir à Construire » marquent une nouvelle impulsion pour notre Mouvement. Chacune, chacun, en prévision du Congrès, doit s'impliquer dans cette démarche afin de lui donner une véritable envergure.<br/>
-            Ici, tu trouveras les premières pistes pour chercher un partenariat <a href="assets/cadac.pdf" target="_blank">Cliquer ici</a><br/>
+  					S’inscrivant dans la dynamique du Congrès, ces projets de « 100 Ans D’Avenir à Construire » marquent une nouvelle impulsion pour notre Mouvement. Chacune, chacun, en prévision du Congrès, doit s'impliquer dans cette démarche afin de lui donner une véritable envergure.<br/><br/>
+            Ici, tu trouveras un outil pour concevoir ton projet. Une fois rempli, tu envoies ce fichier au "référent Congrès" de ta région, à un équipier régional de ta branche, ou à ton coordinateur régional. <br/><a href="assets/cadac.pdf" target="_blank">Cliquer ici</a><br/>
 
   				</div>
   			</div>
@@ -54,7 +52,7 @@
 	  				<div class="titre-cadac"><br/>… De service</div><br/><br/>
 	  				La dimension de service est au cœur des valeurs du scoutisme et fait notamment partie de la Méthode Scoute Unioniste. En t’impliquant dans « 100 Ans D’Avenir à Construire », tu vivras un projet portant cette dimension altruiste. Alors, creusons nous un peu la tête, et allons plus loin que le simple coup de main au propriétaire !<br/><br/>
 
-	  				Ici, tu trouveras un outil pour concevoir ton projet de service: <a href="assets/partenariat-edp.pdf" target="_blank">Cliquer ici</a><br/>
+	  				Ici, tu trouveras un exemple de partenariat pour un projet de service que tu peux proposer aux enfants que tu encadres. <a href="assets/partenariat-edp.pdf" target="_blank">Cliquer ici</a><br/>
   				</div>
   			</div>
   			<div class="case">

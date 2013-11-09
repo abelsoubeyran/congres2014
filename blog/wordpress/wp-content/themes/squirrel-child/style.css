@@ -37,33 +37,12 @@ h1, h2, h3, h4, h5, h6 {
 	width: 950px;
 	font-size: 11px;
 	}
-.mosaique1, .mosaique2, .mosaique3{
-	width: 260px;
-	height: 630px;
-	float: left;
-	margin-bottom: 50px;
-	padding: 10px;
-	background-repeat: no-repeat;
-	}
-.mosaique1 {
-		background: url('images/Camper.png');
-		display: block;
-}
-.mosaique2 {
-		background: url('images/Inventer.png');
-		display: block;
-}
-.mosaique3 {
-		background: url('images/Jouer.png');
-		display: block;
-}
+
 .infospratiques h4 {
 	text-align: center;
 		}
 		
-.mosaique1, .mosaique2{
-	margin-right: 10px;
-	}
+
 	
 .partenaires {
 	width: 900px;
@@ -87,9 +66,7 @@ h1, h2, h3, h4, h5, h6 {
 		margin-left: 100px;
 		}
 	
-	.mosaique1{
-		margin-left: 25px;
-		}
+	
 						
 	#slideshow {
 		height:330px;
@@ -154,6 +131,9 @@ h1, h2, h3, h4, h5, h6 {
 		height: 180px;
 		clear:all;
 	}
+	.case a{
+		font-weight: bold;
+	}
 	.case_inner{
 		width: 300px;
 		border: 1px #999 solid;
@@ -204,11 +184,11 @@ h1, h2, h3, h4, h5, h6 {
 		font-family:"Cabin";
 		}
 	.introrh {
-		border: 1px grey solid;
-		padding: 10px;
-		border-radius: 8px;
+		
+	
+		
 		margin-bottom: 20px;
-		background-color: #EEE;
+	
 		}
 	.introrh h4 {
 		font-family:"Cabin";
@@ -257,12 +237,12 @@ h1, h2, h3, h4, h5, h6 {
 		color: #E03C31;
 	}
 	.introinfospratiques {
-		border: 1px grey solid;
-		padding: 10px;
-		border-radius: 8px;
+	
+	
+	
 		margin-bottom: 20px;
 		margin-right: 40px;
-		background-color: #EEE;
+	
 		font-size: 14px;
 	}
 	.texte-evenement {
@@ -278,3 +258,33 @@ h1, h2, h3, h4, h5, h6 {
 		margin-bottom: 50px;
 		width: 850px;
 	}
+.mosaique {
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.mosaique1, .mosaique2, .mosaique3 {
+	width:260px;
+	height: 385px;
+	float: left;
+	background: url('images/fondinfospratiques.png');
+	margin-right: 15px;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: justify;
+}
+.mosaique h4 {
+	text-align: center;
+}
+.mosaique2 {
+	background: url('images/photoinfopratique.png');
+	width:264px;
+	height: 400px;
+	float: left;
+	margin-right: 15px;
+	padding-top: 15px;
+	padding-left: 7px;
+	padding-right: 7px;
+	text-align: justify;
+}
