@@ -29,7 +29,9 @@ h1, h2, h3, h4, h5, h6 {
     }
 
 .mentions {
-	font-size:8px;
+	font-size:10px;
+	color: #000000;
+	padding: 5px;
 	}
 .infospratiques {
 	width: 950px;
@@ -126,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 		background-color: transparent;
 		}
 		
-	.introrh, .introcadac {
+	.introrh, .introcadac, .introinfo{
 		text-align: justify;
 		}
 	.red {
@@ -192,6 +194,9 @@ h1, h2, h3, h4, h5, h6 {
 	.descriptioncongres a {
 		font-weight: bold;
 		}
+	.descriptioncongres {
+		text-align: justify;
+	}
 	.post_title {
 	font-size: 20px;
 		}
@@ -209,13 +214,13 @@ h1, h2, h3, h4, h5, h6 {
 		font-family:"Cabin";
 		}
 	.introinfo {
-		border: 1px grey solid;
-		padding: 10px;
-		border-radius: 8px;
 		margin-bottom: 20px;
 		margin-right: 40px;
-		background-color: #EEE;
+		
 		font-size: 14px;
+	}
+	.introinfo h1 {
+		text-align: left;
 	}
 	.bottom-footer img {
 		margin-right: 15px;
@@ -259,4 +264,17 @@ h1, h2, h3, h4, h5, h6 {
 		margin-right: 40px;
 		background-color: #EEE;
 		font-size: 14px;
+	}
+	.texte-evenement {
+		margin-right: 40px;
+		text-align: justify;
+		font-size: 14px;
+
+	}
+	.infospratiques img{
+		display: block;
+		margin-right: auto;
+		margin-left: 20px;
+		margin-bottom: 50px;
+		width: 850px;
 	}
