@@ -100,12 +100,12 @@ h1, h2, h3, h4, h5, h6 {
 	
 	/*ugly hack*/
 	body{
-		/*background:url(images/fond-tile.png);*/
+		background:url(images/fond-tile.png);
 		background-repeat:repeat;
 		background-attachment: fixed;
 	}
 	.main-container{
-		background: url(images/fond.png) no-repeat center fixed;
+		/*background: url(images/fond.png) no-repeat center fixed;*/
 		background-size: cover;
 		}
 	.bandehaute {
