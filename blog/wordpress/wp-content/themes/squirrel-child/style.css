@@ -217,14 +217,15 @@ h1, h2, h3, h4, h5, h6 {
 	.fleche2 {
 		background-color: transparent;
 		position: relative;
-		top: 200px;
+		top: 250px;
 		left: 320px;
+		width: 280px;
 
 	}
 	.fleche3 {
 		background-color: transparent;
 		position: relative;
-		top:230px;
+		top:260px;
 		left: 325px;
 
 	}
@@ -232,6 +233,7 @@ h1, h2, h3, h4, h5, h6 {
 	.wrapper-fleche {
 		background-color: transparent;
 		height:1px;
+		position: relative;
 	}
 	.case a {
 		color: #E03C31;

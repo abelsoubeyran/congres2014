@@ -66,13 +66,13 @@
 				   </div>
   			  </div>
   			<div class="case">
-  				<div class="case_inner case-right" style="margin-top:-40px;">
+  				<div class="case_inner case-right">
 	  				<div class="titre-cadac"><br/>… Pourquoi ?</div><br/><br/>
 	  				Pour que le Congrès 2014 des EEUdF s'inscrive dans la durée, le Mouvement a souhaité le vivre et le faire vivre tout au long de l’année 2013-2014.<br/>
 	  				C'est de là qu'est née la Démarche « 100 Ans D’Avenir à Construire » qui permet aux responsables et cadres des EEUdF de monter des projets de service, pour et avec les enfants qui vivent le scoutisme unioniste, en partenariat avec d’autres structures.<br/>
 				</div>
   			</div>
-  			<div class="case" style="margin-top:100px;margin-bottom:300px;">
+  			<div class="case" style="margin-top:200px;margin-bottom:300px;">
   				<div class="case_inner case-center">
   				<div class="titre-cadac" style="font-size:25px;"> Vers vos témoignages!</div><br/><br/>
 	  				À TOUS, nous vous invitons à entrer dans la Démarche, à y intégrer les enfants du Mouvement, les gens qui vous entourent, pour ensuite restituer entre adultes, en août 2014, tout le vécu « 100 Ans D’Avenir à Construire » de cette année.<br/>
