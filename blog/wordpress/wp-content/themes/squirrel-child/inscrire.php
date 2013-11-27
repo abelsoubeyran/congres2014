@@ -10,7 +10,7 @@
   		<div class="content-bar">
           <div class="lettre-green" style="font-weight: bold;">Comment s'inscrire?</div><br/><br/>
 
-          <p> Toutes les informations à lire <a href="http://eeudf2014.org/?attachment_id=245" style="color: #E03C31; font-size: 22px; font-weight:bold;"> Ici </a>
+          <p> Toutes les informations à lire <a href="http://eeudf2014.org/?attachment_id=245" target="_blank" style="color: #E03C31; font-size: 22px; font-weight:bold;"> Ici </a><br/><br/>
           Si vous êtes adhérent EEUdF, passez par le site du SI <a href="http://www.eeudf.org/spip.php?rubrique166"><img src="wp-content/themes/squirrel-child/images/fleche.jpg" alt="fleche" /> ici.</a></br><br/>
 Si vous n'êtes pas adhérent, rendez vous <a href="http://eeudf2014.org/?page_id=121"><img src="wp-content/themes/squirrel-child/images/fleche.jpg" alt="fleche" />ici</a> <br/><br/>
   		
