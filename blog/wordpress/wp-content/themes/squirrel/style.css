@@ -132,6 +132,8 @@ textarea {
 }
 #menu li li a, #menu li li a.selected, #menu li li a:hover {
     border:none;
+    margin-bottom: auto;
+    margin-top: auto;
 }
 #menu li.current-menu-item a:hover, #menu li.current-menu-parent a:hover, #menu li.current_page_parent a:hover, #menu li a:hover.selected {
     text-decoration:none;

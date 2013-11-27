@@ -230,7 +230,13 @@ h1, h2, h3, h4, h5, h6 {
 		left: 325px;
 
 	}
-	
+	.image-cadac {
+		background-color: transparent;
+		position: relative;
+		top:115px;
+		left:-280px;
+	}
+
 	.wrapper-fleche {
 		background-color: transparent;
 		height:1px;

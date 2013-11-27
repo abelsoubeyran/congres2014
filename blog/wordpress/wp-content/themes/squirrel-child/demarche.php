@@ -49,7 +49,7 @@ De là est née <b>la Démarche « 100 Ans D’Avenir à Construire »</b> qui t
   				<div class="case_inner case-right">
 	  				<div class="titre-cadac" style="margin-top:0px;">Un projet … à mener par les équipes de responsables avec les enfants</div><br/><br/>
 	  			      Il s’agit d’un projet de trimestre, d’année ou de camp - comme tu en fais régulièrement dans tes activités unionistes - rehaussé d’une « dimension Congrès ».<br/> <b>C’est un projet que tu vas vivre avec ton unité, ton groupe ou ta région</b>, dans le but d'expérimenter de nouvelles ambitions éducatives pour vos activités. Ces projets « 100 Ans D’Avenir à Construire » marquent <b>une nouvelle impulsion pour notre Mouvement</b>. Il est important que chacun, en prévision du Congrès, se lance dans la démarche. <br/><br/>
-<a href="assets/cadac.pdf">Ici  </a> tu trouveras un outil pour concevoir ton projet.
+<a href="assets/cadac.pdf" target="_blank">Ici  </a> tu trouveras un outil pour concevoir ton projet.
 Il est demandé qu’une fois rempli directement tu envoies ce fichier au « référent-Congrès » de ta région, à un équipier régional de ta branche ou à ton coordonnateur régional.
 
 	
@@ -64,13 +64,16 @@ Il est demandé qu’une fois rempli directement tu envoies ce fichier au « ré
 
 	  				<a href="assets/partenariat.pdf" target="_blank">Ici</a>, tu trouveras les premières pistes pour chercher un partenariat<br/>
 				   </div>
+             <div class="image-cadac">
+              <img src="images/imagecadac.png" alt="imagecadac">
+              </div>
   			  </div>
   			<div class="case">
   				<div class="case_inner case-right">
 	  				<div class="titre-cadac"><br/>Un projet … de service</div><br/><br/>
 	  				 La notion de "service" est au cœur de la <b>démarche pédagogique</b> scoute et notamment de celle des EEUdF.<br/>
               Il s’agit donc, en t’impliquant dans « 100 Ans D’Avenir à Construire », que tu vives tout un projet portant cette dimension d’altruisme gratuit. Allez, <b>creusons-nous un peu la tête,</b> et allons plus loin que le coup de main rendu au propriétaire du terrain de camp ! <br/><br/>
-<a href="assets/partenariat-edp.pdf">Ici</a> tu trouveras un exemple de partenariat pour un projet de service que tu peux proposer aux enfants que tu encadres. 
+<a href="assets/partenariat-edp.pdf" target="_blank">Ici</a> tu trouveras un exemple de partenariat pour un projet de service que tu peux proposer aux enfants que tu encadres. 
 
             </div>
   			</div>

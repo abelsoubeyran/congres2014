@@ -10,7 +10,7 @@
   		<div class="content-bar">
           <div class="lettre-green" style="font-weight: bold;">Comment s'inscrire?</div><br/><br/>
           Si vous êtes adhérent EEUdF, passez par le site du SI <a href="http://www.eeudf.org/spip.php?rubrique166"><img src="wp-content/themes/squirrel-child/images/fleche.jpg" alt="fleche" /> ici.</a></br><br/>
-Si vous n'êtes pas adhérent, rendez vous <a href="http://famille-maitre.fr/?page_id=121"><img src="wp-content/themes/squirrel-child/images/fleche.jpg" alt="fleche" />ici</a> <br/><br/>
+Si vous n'êtes pas adhérent, rendez vous <a href="http://eeudf2014.org/?page_id=121"><img src="wp-content/themes/squirrel-child/images/fleche.jpg" alt="fleche" />ici</a> <br/><br/>
   		
 <u>Paiement</u><br/>
 Le paiement pourra se faire soit via le Système d'Information par carte bancaire ou par chèque à l'ordre de "EEUdF" à envoyer au Secrétariat National (15 rue Klock 92110 Clichy).<br/><br/>
