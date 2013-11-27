@@ -23,9 +23,9 @@ Léonore Moncond'huy<br/> <br/>
 <i>pmsika@gmail.com </i><br/>
 Samuel Trouve<br/><br/>
 
- <b>Irène-Lucie NIORT, en charge du pôle "100 ans d'avenir à Construire" </b><br/><br/>
-<i>congres2014@eeudf.org <i><br/>
-    
+ <b>Irène-Lucie NIORT, en charge du pôle "100 ans d'avenir à Construire" </b><br/>
+<i>congres2014@eeudf.org <i><br/><br/>
+
 <b>Manon SOUBEYRAN, en charge du pôle "Communication"</b> <br/>
 <i>manon.soub@gmail.com </i><br/>
 Arthur Renié<br/>
