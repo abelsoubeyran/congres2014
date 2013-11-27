@@ -30,8 +30,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .mentions {
 	font-size:10px;
-	color: #000000;
+	color: #808080;
 	padding: 5px;
+	text-align: justify;
 	}
 .infospratiques {
 	width: 950px;
@@ -217,7 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 	.fleche2 {
 		background-color: transparent;
 		position: relative;
-		top: 250px;
+		top: 210px;
 		left: 320px;
 		width: 280px;
 
@@ -225,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 	.fleche3 {
 		background-color: transparent;
 		position: relative;
-		top:260px;
+		top:230px;
 		left: 325px;
 
 	}
@@ -237,6 +238,8 @@ h1, h2, h3, h4, h5, h6 {
 	}
 	.case a {
 		color: #E03C31;
+		font-size: 17px;
+		font-weight: bold;
 	}
 	.introinfospratiques {
 	

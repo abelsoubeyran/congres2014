@@ -37,54 +37,55 @@
   			<h3>Un projet</h3>
   			<div class="case">
   				<div class="case_inner case-left">
-  					<div class="titre-cadac"> … Mené par les équipes de responsables avec les enfants</div><br/><br/>
+  					<div class="titre-cadac"><br/> Un projet … pourquoi ?</div><br/><br/>
+              Pour que le Congrès 2014 des EEUdF soit un événement dans la durée, le Mouvement a souhaité le préparer et déjà le faire vivre tout au long de l’année 2013-2014. <br/>
+De là est née <b>la Démarche « 100 Ans D’Avenir à Construire »</b> qui te permet à toi, responsable ou cadre adulte des EEUdF, de monter un projet de service pour et avec les enfants et responsables qui vivent le scoutisme unioniste, et ce en partenariat avec d’autres structures.<br/> L'ensemble des projets vécus un peu partout en France sera le point de départ de nos réflexions pour le Congrès.
 
-  					Ton projet peut s'étendre sur un trimestre,  une année ou un camp, comme on en fait régulièrement dans les activités unionistes. Cette année il sera rehaussé d’une dimension Congrès.  Vous allez le vivre avec ton unité, et mettre en place vos ambitions éducatives en lien avec le Congrès au sein de vos activités.<br/><br/>
-
-  					S’inscrivant dans la dynamique du Congrès, ces projets de « 100 Ans D’Avenir à Construire » marquent une nouvelle impulsion pour notre Mouvement. Chacune, chacun, en prévision du Congrès, doit s'impliquer dans cette démarche afin de lui donner une véritable envergure.<br/><br/>
-            Ici, tu trouveras un outil pour concevoir ton projet. Une fois rempli, tu envoies ce fichier au "référent Congrès" de ta région, à un équipier régional de ta branche, ou à ton coordinateur régional. <br/><a href="assets/cadac.pdf" target="_blank">Cliquer ici</a><br/>
-
+  					
   				</div>
   			</div>
 
   			<div class="case">
   				<div class="case_inner case-right">
-	  				<div class="titre-cadac"><br/>… De service</div><br/><br/>
-	  				La dimension de service est au cœur des valeurs du scoutisme et fait notamment partie de la Méthode Scoute Unioniste. En t’impliquant dans « 100 Ans D’Avenir à Construire », tu vivras un projet portant cette dimension altruiste. Alors, creusons nous un peu la tête, et allons plus loin que le simple coup de main au propriétaire !<br/><br/>
+	  				<div class="titre-cadac" style="margin-top:0px;">Un projet … à mener par les équipes de responsables avec les enfants</div><br/><br/>
+	  			      Il s’agit d’un projet de trimestre, d’année ou de camp - comme tu en fais régulièrement dans tes activités unionistes - rehaussé d’une « dimension Congrès ».<br/> <b>C’est un projet que tu vas vivre avec ton unité, ton groupe ou ta région</b>, dans le but d'expérimenter de nouvelles ambitions éducatives pour vos activités. Ces projets « 100 Ans D’Avenir à Construire » marquent <b>une nouvelle impulsion pour notre Mouvement</b>. Il est important que chacun, en prévision du Congrès, se lance dans la démarche. <br/><br/>
+<a href="assets/cadac.pdf">Ici  </a> tu trouveras un outil pour concevoir ton projet.
+Il est demandé qu’une fois rempli directement tu envoies ce fichier au « référent-Congrès » de ta région, à un équipier régional de ta branche ou à ton coordonnateur régional.
 
-	  				Ici, tu trouveras un exemple de partenariat pour un projet de service que tu peux proposer aux enfants que tu encadres. <a href="assets/partenariat-edp.pdf" target="_blank">Cliquer ici</a><br/>
-  				</div>
+	
+          	</div>
   			</div>
   			<div class="case">
   				<div class="case_inner case-left">
 	  				<div class="titre-cadac"><br/>… En partenariat</div><br/><br/>
-	  				Par « Partenaire » on entend : toute association ou structure autre que les EEUdF qui mène des actions faisant écho au projet éducatif des éclaireurs unionistes.<br/>
-	  				Nous avons pour ambition d'apprendre à mener des projets avec les autres et de leur faire découvrir qui sont les EEUdF.<br/>
-	  				Cette Démarche nous permet d'expérimenter des façons de faire, de nous questionner et d'enrichir collectivement nos pratiques.<br/><br/>
+	  				Par « Partenaire » on entend : toute association ou structure autre que les EEUdF qui <b>mène des actions</b> faisant écho au projet éducatif des éclaireurs unionistes.<br/>
+	  				Nous avons pour ambition d'apprendre à <b>mener des projets avec les autres</b> et de leur faire découvrir qui sont les EEUdF.<br/>
+	  				<b>Cette Démarche</b> nous permet d'expérimenter des façons de faire, de nous questionner et d'enrichir collectivement nos pratiques.<br/><br/>
 
-	  				Ici, tu trouveras les premières pistes pour chercher un partenariat <a href="assets/partenariat.pdf" target="_blank">Cliquer ici</a><br/>
+	  				<a href="assets/partenariat.pdf" target="_blank">Ici</a>, tu trouveras les premières pistes pour chercher un partenariat<br/>
 				   </div>
   			  </div>
   			<div class="case">
   				<div class="case_inner case-right">
-	  				<div class="titre-cadac"><br/>… Pourquoi ?</div><br/><br/>
-	  				Pour que le Congrès 2014 des EEUdF s'inscrive dans la durée, le Mouvement a souhaité le vivre et le faire vivre tout au long de l’année 2013-2014.<br/>
-	  				C'est de là qu'est née la Démarche « 100 Ans D’Avenir à Construire » qui permet aux responsables et cadres des EEUdF de monter des projets de service, pour et avec les enfants qui vivent le scoutisme unioniste, en partenariat avec d’autres structures.<br/>
-				</div>
+	  				<div class="titre-cadac"><br/>Un projet … de service</div><br/><br/>
+	  				 La notion de "service" est au cœur de la <b>démarche pédagogique</b> scoute et notamment de celle des EEUdF.<br/>
+              Il s’agit donc, en t’impliquant dans « 100 Ans D’Avenir à Construire », que tu vives tout un projet portant cette dimension d’altruisme gratuit. Allez, <b>creusons-nous un peu la tête,</b> et allons plus loin que le coup de main rendu au propriétaire du terrain de camp ! <br/><br/>
+<a href="assets/partenariat-edp.pdf">Ici</a> tu trouveras un exemple de partenariat pour un projet de service que tu peux proposer aux enfants que tu encadres. 
+
+            </div>
   			</div>
-  			<div class="case" style="margin-top:200px;margin-bottom:300px;">
+  			<div class="case" style="margin-top:270px;margin-bottom:300px;">
   				<div class="case_inner case-center">
-  				<div class="titre-cadac" style="font-size:25px;"> Vers vos témoignages!</div><br/><br/>
-	  				À TOUS, nous vous invitons à entrer dans la Démarche, à y intégrer les enfants du Mouvement, les gens qui vous entourent, pour ensuite restituer entre adultes, en août 2014, tout le vécu « 100 Ans D’Avenir à Construire » de cette année.<br/>
+  				<div class="titre-cadac" style="font-size:22px;">Le témoignage… sur votre projet.</div><br/><br/>
+               
+              L'équipe-Congrès te donne rendez-vous dès maintenant dans la Démarche, puis en août 2014 pour restituer entre adultes du Mouvement, ton vécu « 100 Ans D’Avenir à Construire » de cette année.<br/>
+- Si tu le souhaites : <b>rendez-vous les 5 & 6 avril 2014.</b> L'équipe-Congrès et des professionnels de l'éducation populaire, préparerons avec tes co-responsables et toi un témoignage vivant de votre projet. Cette présentation accompagnera les travaux de réflexion du Congrès.<br/> 
+<b>Ceci nécessite que se proposent 12 équipes volontaires prêtes à vivre cette expérience originale !</b><br/>
+- Pour tous : en partageant et échangeant succinctement toutes les expériences de projets « 100 Ans D’Avenir à Construire » sur un site Internet réservé pour cela.<br/>
 
-	  				Pour ceux qui le souhaitent :<br/>
-	  				Rendez-vous les 5 et 6 avril 2014 pour préparer les témoignages vivants de vos projets.<br/>
-	  				L'équipe congrès et des professionnels de l'éducation populaire préparerons avec vous les témoignages qui accompagerons les travaux de réflexion du Congrès. Nous recherchons 12 équipes volontaires pour participer à ce week-end !<br/><br/>
-
-	  				D'autre formes de témoignages sont possibles:<br/>
-	  				- Partager et échanger toutes les expériences de projets « 100 Ans D’Avenir à Construire » sur un site Internet réservé pour cela.<br/>
-	  				- Un résumé de chaque projet "100 Ans d'Avenir A Construire" vécu en 2013-2014 dans les unités, les groupes locaux et les régions sera visible lors du Congrès. <br/>
-	  			</div>
+- Pour tous : un résumé de chaque projet « 100 Ans D’Avenir à Construire » vécu en 2013-2014 dans les unités, Groupe Locaux, Régions… sera visible lors du Congrès.
+       
+          	</div>
   			</div>
   			<div class="end-cadac" style="clear:all;">
   				<div class="lettre-red">Et pour les 100 ans à venir...</div><br/><br/>
