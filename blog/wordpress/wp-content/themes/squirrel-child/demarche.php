@@ -32,7 +32,10 @@
           </div>
            <div class="fleche3">
               <img src="images/fleches/fleche3.png" alt="fleche3">
-          </div>
+            </div>
+              <div class="image-cadac">
+              <img src="images/imagecadac.png" alt="imagecadac">
+              </div>
          </div>
   			<h3>Un projet</h3>
   			<div class="case">
@@ -64,9 +67,7 @@ Il est demandé qu’une fois rempli directement tu envoies ce fichier au « ré
 
 	  				<a href="assets/partenariat.pdf" target="_blank">Ici</a>, tu trouveras les premières pistes pour chercher un partenariat<br/>
 				   </div>
-             <div class="image-cadac">
-              <img src="images/imagecadac.png" alt="imagecadac">
-              </div>
+             
   			  </div>
   			<div class="case">
   				<div class="case_inner case-right">
