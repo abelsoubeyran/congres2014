@@ -8,6 +8,9 @@
   <div class="page-content">
   	<div class="grid_24 alpha" >
   		<div class="content-bar">
+        <div class="imageinscriptions">
+          <img src="images/imageinscriptions.png" alt="image-inscription">
+        </div>
           <div class="lettre-green" style="font-weight: bold;">Comment s'inscrire?</div><br/><br/>
 
           <p> Toutes les informations à lire <a href="images/modalite.pdf" target="_blank" style="color: #E03C31; font-size: 20px; font-weight:bold;"> Ici </a><br/><br/>

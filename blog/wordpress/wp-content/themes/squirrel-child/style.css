@@ -246,6 +246,15 @@ h1, h2, h3, h4, h5, h6 {
 		height:1px;
 		position: relative;
 	}
+
+	.imageinscriptions {
+		background-color: transparent;
+		height: 30px;
+		position:relative;
+		top: -15px;
+		left: 650px;
+
+	}
 	.case a {
 		color: #E03C31;
 		font-size: 17px;
