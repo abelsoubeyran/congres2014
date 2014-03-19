@@ -285,6 +285,8 @@ h1, h2, h3, h4, h5, h6 {
 		text-align: center;
 		margin: auto;
 		font-size: 25px;
+		font-weight: bold;
+		font-family:"chivoblack";
 	}
 
 	.image-evenement {

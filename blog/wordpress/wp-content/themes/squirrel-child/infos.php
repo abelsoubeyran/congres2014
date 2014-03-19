@@ -21,7 +21,7 @@ Des mutations, il en a vécues de nombreuses mais continue à se développer un 
 <div class="lettre-red">Ce sont nos pratiques</div> quotidiennes et notre pédagogie que nous venons enrichir collectivement durant ces quelques jours. Si le scoutisme est une pédagogie aussi durable, c'est que nous avons toujours su enrichir nos pratiques jusqu'à aujourd'hui.<br/>
 				</div>
 				<div class="lienprogramme">
-					<a href="assets/Petitprogramme.pdf" target="_blank" alt="petitprogramme">Je veux en savoir encore plus!</a>
+					<a href="assets/Petitprogramme.pdf" target="_blank" alt="petitprogramme">Cliquez ici pour en savoir plus!</a>
 				</div>
 				<div class="image-evenement">
 					<p>
