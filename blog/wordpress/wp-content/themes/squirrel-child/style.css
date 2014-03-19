@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 		font-family:"Cabin";
 		}
 	.introinfo {
-		margin-bottom: 20px;
+		margin-bottom: 60px;
 		margin-right: 40px;
 		
 		font-size: 14px;
@@ -275,6 +275,22 @@ h1, h2, h3, h4, h5, h6 {
 		font-size: 14px;
 
 	}
+	.lienprogramme {
+		background: url('images/fondprogramme.png');
+		color: #FFFFFF;
+		height: 65px;
+		width: 290px;
+		padding: 5px;
+		padding-top: 10px;
+		text-align: center;
+		margin: auto;
+		font-size: 25px;
+	}
+
+	.image-evenement {
+		margin-top: 100px;
+	}
+
 	.infospratiques img{
 		display: block;
 		margin-right: auto;
