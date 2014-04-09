@@ -85,6 +85,7 @@
 		
     </div>
     <div class="video-widget">
+        <h1>Quelques vidéos... Pour te faire rêver!</h1><br/><br/>
          <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('video1')):endif;?>
      </div>
     <div class="clear"></div>
