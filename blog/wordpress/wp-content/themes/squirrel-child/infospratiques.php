@@ -12,6 +12,9 @@
         <h1> Infos Pratiques </h1>
 				<p>Sur cette page tu trouveras des informations concernant la vie quotidienne du Congrès en août 2014 qui seront dévoilées au fur et à mesure.</p>
 			</div>
+      <div class="widget1">
+        <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('info1')):endif;?>
+      </div>
       <div class="mosaique">
         <div class="mosaique1">
           <h4>Un Congrès campé</h4>
@@ -34,7 +37,13 @@ Qui veut dire sous-camp, veut dire <b>camper</b> ! Il est donc indispensable de 
  
         </div>
       </div>
+      <div class="widget2">
+        <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('info2')):endif;?>
+      </div>
       <div class="plan">
+      </div>
+      <div class="widget3">
+        <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('info3')):endif;?>
       </div>
       
     <div class="grid_8 omega">

@@ -297,6 +297,36 @@ function squirrel_widgets_init() {
         'before_title' => '<h4>',
         'after_title' => '</h4>',
     ));
+    // Area 8, infospratiques widget1.
+    register_sidebar(array(
+        'name' => __('info1', 'squirrel'),
+        'id' => 'info-1',
+        'description' => __('widget infos pratiques 1', 'squirrel'),
+        'before_widget' => '<div class="widgetinfo">',
+        'after_widget' => '</div>',
+        'before_title' => '<h4>',
+        'after_title' => '</h4>',
+    ));
+    // Area 9, infospratiques widget2.
+    register_sidebar(array(
+        'name' => __('info2', 'squirrel'),
+        'id' => 'info-2',
+        'description' => __('widget infos pratiques 2', 'squirrel'),
+        'before_widget' => '<div class="widgetinfo">',
+        'after_widget' => '</div>',
+        'before_title' => '<h4>',
+        'after_title' => '</h4>',
+    ));
+    // Area 10, infospratiques widget3.
+    register_sidebar(array(
+        'name' => __('info3', 'squirrel'),
+        'id' => 'info-3',
+        'description' => __('widget infos pratiques 3', 'squirrel'),
+        'before_widget' => '<div class="widgetinfo">',
+        'after_widget' => '</div>',
+        'before_title' => '<h4>',
+        'after_title' => '</h4>',
+    ));
     
 	// Area 11, located on the front page. Empty by default.
     register_sidebar(array(
