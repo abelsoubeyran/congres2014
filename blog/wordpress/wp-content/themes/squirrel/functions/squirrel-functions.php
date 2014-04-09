@@ -309,9 +309,9 @@ function squirrel_widgets_init() {
     ));
     // Area 9, infospratiques widget2.
     register_sidebar(array(
-        'name' => __('info2', 'squirrel'),
-        'id' => 'info-2',
-        'description' => __('widget infos pratiques 2', 'squirrel'),
+        'name' => __('cadac1', 'squirrel'),
+        'id' => 'cadac-1',
+        'description' => __('widget cadac 1', 'squirrel'),
         'before_widget' => '<div class="widgetinfo">',
         'after_widget' => '</div>',
         'before_title' => '<h4>',
@@ -319,9 +319,9 @@ function squirrel_widgets_init() {
     ));
     // Area 10, infospratiques widget3.
     register_sidebar(array(
-        'name' => __('info3', 'squirrel'),
-        'id' => 'info-3',
-        'description' => __('widget infos pratiques 3', 'squirrel'),
+        'name' => __('cadac2', 'squirrel'),
+        'id' => 'cadac-2',
+        'description' => __('widget cadac 2', 'squirrel'),
         'before_widget' => '<div class="widgetinfo">',
         'after_widget' => '</div>',
         'before_title' => '<h4>',

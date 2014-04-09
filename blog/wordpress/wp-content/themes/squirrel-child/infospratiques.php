@@ -37,13 +37,8 @@ Qui veut dire sous-camp, veut dire <b>camper</b> ! Il est donc indispensable de 
  
         </div>
       </div>
-      <div class="widget2">
-        <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('info2')):endif;?>
-      </div>
+     
       <div class="plan">
-      </div>
-      <div class="widget3">
-        <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('info3')):endif;?>
       </div>
       
     <div class="grid_8 omega">

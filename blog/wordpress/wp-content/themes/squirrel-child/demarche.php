@@ -23,6 +23,9 @@
 
 
   			</div>
+         <div class="widget2">
+        <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('cadac1')):endif;?>
+      </div><br/><br/>
         <div class="wrapper-fleche">
          <div class="fleche1">
             <img src="images/fleches/fleche1.png" alt="fleche1">
@@ -92,6 +95,9 @@ Il est demandé qu’une fois rempli directement tu envoies ce fichier au « ré
           	</div>
   			</div>
   			<div class="end-cadac" style="clear:all;">
+          <div class="widget2">
+        <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('cadac2')):endif;?>
+      </div><br/>
   				<div class="lettre-red">Et pour les 100 ans à venir...</div><br/><br/>
   				L’ambition de « 100 Ans D’Avenir à Construire » est d’être une première expérience tremplin pour une Démarche qui est amenée à perdurer dans les années à venir en tant que base de nouveaux projets. Les expériences continueront à être partagées sur le site Internet dédié à cette Démarche.<br/>
           <br/><br/>
