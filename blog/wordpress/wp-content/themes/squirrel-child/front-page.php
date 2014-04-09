@@ -63,6 +63,7 @@
                 <?php } else { ?>
                     <p><?php _e('', 'squirrel'); ?></p>
                 <?php } ?>                
+           
             </div>
         </div>
         <div class="grid_12 omega"></div>
@@ -79,9 +80,13 @@
             <?php } ?>  
 				-->
 			<?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('Rss Widget Area')):endif;?>
+            
 	   </div>
 		
     </div>
+    <div class="video-widget">
+         <?php if(!function_exists('dynamic_sidebar')|| !dynamic_sidebar('video1')):endif;?>
+     </div>
     <div class="clear"></div>
     <div class="index-fullwidth">
         <?php if (squirrel_get_option('squirrel_fullcolhead') != '') { ?>

@@ -22,6 +22,8 @@ Version:	0.1
 	
    body {
     font-family:"Cabin";
+    padding: 0px;
+    margin:0px;
 	}
 h1, h2, h3, h4, h5, h6 {
     font-family:"chivoblack";
@@ -304,6 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 	width: 950px;
 	margin-right: auto;
 	margin-left: auto;
+	height: 470px;
 }
 .mosaique1, .mosaique2, .mosaique3 {
 	width:260px;
@@ -329,4 +332,15 @@ h1, h2, h3, h4, h5, h6 {
 	padding-left: 7px;
 	padding-right: 7px;
 	text-align: justify;
+}
+.plan {
+	background: url('images/planlusignan.png');
+	width: 800px;
+	height: 562px;
+	margin:auto;
+}
+
+.videowidget {
+	margin-left: 100px;
+	float: left;
 }

@@ -276,17 +276,29 @@ function squirrel_widgets_init() {
         'before_title' => '<h4>',
         'after_title' => '</h4>',
     ));
+    // Debut des widgets videos
     // Area 6, located on the front page. Empty by default.
     register_sidebar(array(
         'name' => __('Rss Widget Area', 'squirrel'),
         'id' => 'rss-widget-area',
-        'description' => __('la zone pour rss', 'squirrel'),
+        'description' => __('zone pour video', 'squirrel'),
         'before_widget' => '',
         'after_widget' => '',
         'before_title' => '<h4>',
         'after_title' => '</h4>',
     ));
-	// Area 7, located on the front page. Empty by default.
+    // Area 7, located on the front page. Empty by default.
+    register_sidebar(array(
+        'name' => __('video1', 'squirrel'),
+        'id' => 'video-1',
+        'description' => __('zone pour video', 'squirrel'),
+        'before_widget' => '<div class="videowidget">',
+        'after_widget' => '</div>',
+        'before_title' => '<h4>',
+        'after_title' => '</h4>',
+    ));
+    
+	// Area 11, located on the front page. Empty by default.
     register_sidebar(array(
         'name' => __('slideshow Widget area', 'squirrel'),
         'id' => 'slideshow-area',

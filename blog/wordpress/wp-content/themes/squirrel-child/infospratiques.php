@@ -34,6 +34,8 @@ Qui veut dire sous-camp, veut dire <b>camper</b> ! Il est donc indispensable de 
  
         </div>
       </div>
+      <div class="plan">
+      </div>
       
     <div class="grid_8 omega">
         <!--Start Sidebar-->
